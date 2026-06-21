@@ -1,2 +1,3 @@
 # AI-Powered-Sales-Analytics
-AI-powered sales analytics project demonstrating how Generative AI, SQL and Power BI can accelerate business insights and decision-making.
+End-to-end BI analytics project combining Power BI, SQL and Generative AI for automated insights, executive reporting and business recommendations.
+
