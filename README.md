@@ -45,7 +45,6 @@ The dataset includes:
 
 ## Dashboard
 
-![Dashboard](images/dashboard_screenshot.png)
 <img width="1206" height="850" alt="image" src="https://github.com/user-attachments/assets/1ffb694a-9de2-44e5-9ee5-590cf9b9d8a8" />
 <img width="1184" height="849" alt="image" src="https://github.com/user-attachments/assets/4b7e463d-aee0-4212-a7d3-d7686e24b3db" />
 <img width="1204" height="674" alt="image" src="https://github.com/user-attachments/assets/e30dcefa-dce3-48bc-8a45-2ac6c39a5608" />
