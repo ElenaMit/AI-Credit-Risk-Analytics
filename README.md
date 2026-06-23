@@ -1,11 +1,11 @@
 # AI-Credit-Risk-Analytics
-End-to-end BI analytics project combining Power BI, SQL and Generative AI for automated insights, executive reporting and business recommendations.
+פרויקט ניתוח BI מקצה לקצה המשלב Power BI, SQL ובינה מלאכותית גנרטיבית עבור תובנות אוטומטיות, דיווחי ניהול והמלצות עסקיות.
 
 ## Project Overview
 
-This project demonstrates how Generative AI can support BI analysis, SQL generation and executive reporting.
+פרויקט זה מדגים כיצד בינה מלאכותית גנרטיבית יכולה לתמוך בניתוח BI, יצירת SQL ודיווח ניהולי.
 
-The goal is to show how a BI Analyst can use Power BI, SQL and ChatGPT to accelerate the analytical workflow and generate business recommendations.
+המטרה היא להראות כיצד אנליסט BI יכול להשתמש ב-Power BI, SQL ו-ChatGPT כדי להאיץ את זרימת העבודה האנליטית וליצור המלצות עסקיות.
 
 ## Tools Used
 
@@ -29,27 +29,39 @@ The dataset includes:
 
 ## Business Questions
 
-This project answers:
-1. What are the main sales trends?
-2. Which regions perform best?
-3. Which products are unprofitable?
-4. Which customers generate the most value?
-5. What actions should management take?
+פרויקט זה עונה על:
+1. מהן מגמות המכירות העיקריות?
+2. אילו אזורים מציגים את הביצועים הטובים ביותר?
+3. אילו מוצרים אינם רווחיים?
+4. אילו לקוחות מייצרים את הערך הרב ביותר?
+5. אילו פעולות על ההנהלה לנקוט? ChatGPT שימש ל:
+- יצירת השערות אנליטיות
+- זיהוי מגמות וסיכונים
+- יצירת שאילתות SQL
+- יצירת תקצירים מנהלים
+- הצעת המלצות עסקיות
+
+כל התובנות שנוצרו על ידי בינה מלאכותית אומתו באמצעות Power BI.
 
 ## Dashboard
 
 ![Dashboard](images/dashboard_screenshot.png)
+<img width="1206" height="850" alt="image" src="https://github.com/user-attachments/assets/1ffb694a-9de2-44e5-9ee5-590cf9b9d8a8" />
+<img width="1184" height="849" alt="image" src="https://github.com/user-attachments/assets/4b7e463d-aee0-4212-a7d3-d7686e24b3db" />
+<img width="1204" height="674" alt="image" src="https://github.com/user-attachments/assets/e30dcefa-dce3-48bc-8a45-2ac6c39a5608" />
+
 
 ## AI-Assisted Workflow
 
-ChatGPT was used to:
-- Generate analytical hypotheses
-- Identify trends and risks
-- Generate SQL queries
-- Create executive summaries
-- Suggest business recommendations
 
-All AI-generated insights were validated using Power BI.
+ChatGPT שימש ל:
+- יצירת השערות אנליטיות
+- זיהוי מגמות וסיכונים
+- יצירת שאילתות SQL
+- יצירת תקצירים
+- הצעת המלצות עסקיות
+
+כל התובנות שנוצרו על ידי בינה מלאכותית אומתו באמצעות Power BI.
 
 ## Repository Structure
 
